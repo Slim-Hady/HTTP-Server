@@ -9,13 +9,19 @@ HTTP server using python and tornado capable of handling GET , POST , PUT and DE
 
 <img width="1875" height="951" alt="image" src="https://github.com/user-attachments/assets/f0e7a63d-be29-4f03-93b7-7dc5138a4d2f" />
 
+-----------------------------------------------------------------------------------------------------------
+
 <img width="1446" height="969" alt="image" src="https://github.com/user-attachments/assets/a9f9f862-b2df-46d9-baa5-f203bb83267b" />
 
 # GET :
 
 <img width="2542" height="1083" alt="image" src="https://github.com/user-attachments/assets/38e44a50-2abf-456c-8552-f60064d0a074" />
 
+-----------------------------------------------------------------------------------------------------------
+
 <img width="844" height="180" alt="image" src="https://github.com/user-attachments/assets/b77838ac-f755-4bf1-aacc-ab0336c76754" />
+
+-----------------------------------------------------------------------------------------------------------
 
 <img width="844" height="180" alt="image" src="https://github.com/user-attachments/assets/98dcd307-5452-41b5-bab7-05fc223e48a3" />
 
